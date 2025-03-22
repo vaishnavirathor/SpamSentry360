@@ -1,0 +1,10 @@
+@relation spam_detection
+
+@attribute text string
+@attribute class {spam, ham}
+
+@data
+"win free money now", spam
+"meeting at 10 am", ham
+"claim your free prize", spam
+"project discussion tomorrow", ham
