@@ -21,4 +21,5 @@ Trains a Naive Bayes classifier on the processed dataset.
 Accepts user input (email text) via the console.
 
 Predicts whether the input email is spam or ham.
+This Java class (spamClassifier) is a spam detection system using the Naïve Bayes algorithm from the WEKA machine-learning library. It processes email text, converts it into numerical data, and classifies it as spam or ham (not spam).
 
